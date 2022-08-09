@@ -2,6 +2,8 @@
 
 # Titulo h1
 
+y aca arrancas a tirar el texto, podes ir viendo como te queda del otro lado jeje 
+
 ## Titulo h2
 
 ### Titulo h3
@@ -35,3 +37,4 @@ this is an ~~strikethrough~~ text
 
 <!-- URL/Links -->
 [NameUrl.com]
+ hola como e
