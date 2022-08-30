@@ -45,3 +45,5 @@ Primero debemos entender que hay ciertas cosas imporantes para tener en cuenta, 
 * Update - Actualiza un recurso
 * Delete - Deletea/borra un recurso
 
+#### POST:
+Este metodo lo que hace es enviar informacion 
