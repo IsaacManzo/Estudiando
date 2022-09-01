@@ -45,3 +45,13 @@ Primero debemos entender que hay ciertas cosas imporantes para tener en cuenta, 
 * Update - Actualiza un recurso
 * Delete - Deletea/borra un recurso
 
+#### Request
+
+El req o request es la consulta que esta haciendo el cliente, es decir, desde el path esta pidiendo algo, por ejemplo, si vos queres acceder a tu perfil en facebook, lo que vas a hacer es desde la url entrar a tu usuario, http://facebook.com/MiUsuario. El back end de nuestra app se encargara de responder con la solicitud.
+
+#### Response
+
+El response es el metodo que se usa para enviar lo que el request quiere, por ejemplo, res.(MiUsuario).
+
+### POST
+
