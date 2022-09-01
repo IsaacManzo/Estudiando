@@ -50,15 +50,15 @@ Podriamos agarrar muchas fotos de gatos y se las damos como parametro para que a
 
 ## **Gatos que no existen**
 
-https://thiscatdoesnotexist.com/
+[Gatos](https://thiscatdoesnotexist.com/).
 
 ## **Dibujos de gatos que tampoco existen**
 
-https://affinelayer.com/pixsrv/
+[Dibujos](https://affinelayer.com/pixsrv/).
 
 ## **Aun que no lo creas, estas personas tampoco existen**
 
-https://this-person-does-not-exist.com/es
+[Personas](https://this-person-does-not-exist.com/es).
 
 # **Dall-e-2**
 
@@ -66,10 +66,9 @@ Dall-e es la siguiente generacion de la inteligencia artificial, todavia no nos 
 
 Esta inteligencia artificial es capaz de dibujar, pintar, diseñar y sacar fotos de a cuerdo a lo que le decis
 
-https://openai.com/dall-e-2/
+[Dall-e-2](https://openai.com/dall-e-2/).
+
 
 # **Y por ultimo**
 
-El avance mas reciente de la inteligencia artificial
-
-https://www.youtube.com/watch?v=QiiSAvKJIHo
+En que se convertira lo audio visual ?  [Publicidad IA](https://www.youtube.com/watch?v=QiiSAvKJIHo).
