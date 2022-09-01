@@ -2,11 +2,11 @@
 
 La inteligencia artificial es el concepto segun el cual las maquinas piensan como seres humanos, normalmente un sistema de inteligencia artificial es capaz de analizar datos en grandes cantidades, identificar patrones, tendencias, y por lo tanto formular predicciones de forma automatica.
 
-## **Es la compu intentando imitar a un ser humano**
+## **Es un sistema intentando imitar a un ser humano**
 
-![Alt Text](https://i.gifer.com/origin/ed/ed2c8e819e41a601637f492c80317ad0.gif)
+![Alt Text](https://thumbs.gfycat.com/BaggyOpenFireant-size_restricted.gif)
 
-Es un sistema que esta precente en aplicaciones que utilizamos diariamente, alexa, siri, tu oponente en algun juego, los filtros de instagram.
+Estos comportamientos estan precentes en aplicaciones que utilizamos diariamente, alexa, siri, tu oponente en algun juego, los filtros de instagram.
 
 ## **Prediccion facial**
 
@@ -48,8 +48,28 @@ En general estas redes neuronales entan compuestas de muchas formas matematicas,
 
 Podriamos agarrar muchas fotos de gatos y se las damos como parametro para que aprenda como esta compuesto un gato, por ende va a terminar aprendiendo como generarlos.
 
+## **Gatos que no existen**
+
 https://thiscatdoesnotexist.com/
+
+## **Dibujos de gatos que tampoco existen**
 
 https://affinelayer.com/pixsrv/
 
+## **Aun que no lo creas, estas personas tampoco existen**
+
 https://this-person-does-not-exist.com/es
+
+# **Dall-e-2**
+
+Dall-e es la siguiente generacion de la inteligencia artificial, todavia no nos imaginamos la cantida de cosas que se pueden crear gracias a estos descubrimientos.
+
+Esta inteligencia artificial es capaz de dibujar, pintar, diseñar y sacar fotos de a cuerdo a lo que le decis
+
+https://openai.com/dall-e-2/
+
+# **Y por ultimo**
+
+El avance mas reciente de la inteligencia artificial
+
+https://www.youtube.com/watch?v=QiiSAvKJIHo
