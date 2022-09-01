@@ -22,5 +22,5 @@ Es un sistema que esta precente en aplicaciones que utilizamos diariamente, alex
 
 Todo comenzo con la primer inteligencia artificial creada por Alan Turing y lo llamo test de turing, es un examen para testear si una maquina puede hacerse pasar por un humano o no.
 
-## Año 1966, Eliza
-
+## Año 1966, Elizaa
+ 
