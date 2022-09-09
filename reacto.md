@@ -1,4 +1,13 @@
 # Reacto
+## **Estructura de datos**
+
+Es una forma particular de organizar datos en una computadora para que puedan ser utilizados de manera eficiente.Diferentes tipos de estructuras de datos son adecuados para diferentes tipos de aplicaciones, y algunos son altamente especializados para tareas específicas.
+
+
+
+### **Pila/Stack**
+
+Esta estructura organiza los datos uno arriba del otro, generando una pila, cada vez que se ingrese un nuevo dato, este mismo se coloca por encima de los datos que ya estan en la pila.
 
 ## **Big O**
 

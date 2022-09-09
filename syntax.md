@@ -2,7 +2,7 @@
 
 # Titulo h1
 
-y aca arrancas a tirar el texto, podes ir viendo como te queda del otro lado jeje 
+Texto 
 
 ## Titulo h2
 
@@ -40,6 +40,8 @@ this is an ~~strikethrough~~ text
  hola como e
 <<<<<<< HEAD
 =======
+
+![No cargo la imagen](https://i.pinimg.com/564x/c7/07/b3/c707b3d1acab736c3c72df8539ba9e23.jpg)
 
 
  ``` JavaScript
