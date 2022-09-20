@@ -31,8 +31,12 @@ git push origin rama-actual
 
 Con **git** **push** **origin** **rama-actual** vamos a **pushear** los cambios a git.
 
+## GIT PULL ORIGIN MASTER
+
+ ``` JavaScript
+git pull origin master
+```
+
+Esto es para traer el master actualizado.
+
 ---
-
-# GIT MERGE EN LA WEB
-
-Vamos a la pagina
