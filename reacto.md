@@ -1,9 +1,12 @@
 # Reacto
+
 ## **Estructura de datos**
 
-Es una forma particular de organizar datos en una computadora para que puedan ser utilizados de manera eficiente.Diferentes tipos de estructuras de datos son adecuados para diferentes tipos de aplicaciones, y algunos son altamente especializados para tareas específicas.
+Es una forma particular de organizar datos en una computadora para que puedan ser utilizados de manera eficiente. Diferentes tipos de estructuras de datos son adecuados para diferentes tipos de aplicaciones, y algunos son altamente especializados para tareas específicas.
 
+![No cargo la imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pila.svg/1200px-Pila.svg.png)
 
+Por ejemplo, el historial de google chrome va realizando una pila a medida que el cliente va ingresando a nuevos urls. O cuando vayamos dando rt en twitter, etc.
 
 ### **Pila/Stack**
 
@@ -47,3 +50,5 @@ Para encontrar el elemento/numero 6, a este algoritmo le llevaria 2 pasos.
 La ventaja de esto es que cada vez que duplicamos la cantidad de pasos, solo se le agrega de a un paso, es decir si ahora quisieramos encontrar algun el numero 4 que esta en la hoja hija del padre 6. Pensar que ya tenemos los pasos para acceder al 6 que son, izquierda y derecha, ahora si se ingresa el input 4 seria, 4 es menor que el root 8 entonces para la **derecha** (1 paso), 4 es mas grande que 3 entonces para la **izquierda** (2 pasos), 4 es menor que 6 entonces para la **derecha** (3 pasos). Fin del algoritmo. 
 
 Para encontrar el elemento/numero 4, a este algoritmo le llevaria 3 pasos.
+
+
