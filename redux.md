@@ -1,6 +1,5 @@
 # Redux
 
-
 ### **Reducer**
 
 Los reducers son como tomar algo de entrada y convertirlo en otra cosa, dependiendo de la accion que recivan.
