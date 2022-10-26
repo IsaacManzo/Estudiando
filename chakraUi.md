@@ -16,19 +16,6 @@ Aqui estara renderisado el componente App que contiene todo el jsx del codigo.
 Luego de instalar se debe colocar el componente Provider por fuera de App, de esta forma se renderisara Chakra.
 
  ``` JavaScript
-import * as React from 'react'
-
-// 1. import `ChakraProvider` component
-import { ChakraProvider } from '@chakra-ui/react'
-
-function App() {
-  // 2. Wrap ChakraProvider at the root of your app
-  return (
-    <ChakraProvider>
-      <TheRestOfYourApplication />
-    </ChakraProvider>
-  )
-}
 // 1. Primero importar react
 import React from "react";
 // 2. El componente App creado

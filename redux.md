@@ -1,5 +1,79 @@
 # Redux
 
+## **Configuracion**
+
+### **Setear la Store**
+
+Primero debemos crear una carpeta llamada state dentro de la carpeta front, aqui es donde configuraremos la store.
+
+![No cargo la imagen](https://cdn.discordapp.com/attachments/991322622660976670/1033409316486664332/unknown.png)
+
+Aca se crea una store SUPER basica, lo minimo fundamental para poder enlazarla con React.
+
+``` JavaScript
+// 1. Importamos el creador de la store
+import { configureStore } from "@redux/toolkit"
+
+// 2. Creamos el reducer
+function reducer(state, action){
+    return state:
+}
+
+// 3. Declaramos la store en una constante y la creamos con configureStore
+const store = configureStore({ reducer })
+
+// 4. Exportamos la store
+export default store:
+```
+
+### **Unir Redux con React**
+
+Dentro del index.js principal del front.
+
+``` JavaScript
+import App from ""
+// 1. Importamos Provider, sera el que proporciona la conexion entre los controladores,estados y reducers con React 
+import { Provider } from "react-redux"
+
+// 2. Importamos la store
+import store from "./state/store"
+
+// 3. Declaramos la cosntante app que contendra toda la estructura del front 
+const app + (
+    // 4. Encerramos a App dentro del Provider para crear la conexion y le indicamos la store a la cual tiene que enlazar
+    <Provider store={store}>
+     <App />
+    </Provider>
+)
+
+ReactDOM.render(app, document.geteElementId("root"))
+```
+
+### **Creando un action y un reducer**
+
+Dentro de la carpeta state es donde iniciaremos nuestro estados, en este caso el estado es un array con objetos que contiene la fake data de aeropuertos.
+
+``` JavaScript
+import { createAction, createReducer } from "@reduxjs/toolkit"
+
+import FakeData from "../utils/fake-data"
+
+export const setAirports = createAction("SET-AIRPOSRTS ")
+
+const initialState = FakeData.getAirports()
+
+const reducer = createReducer(initialState, {
+    [setAirports]: (state, action) =>{
+        const options = FakeData.getAirports()
+        if (action.payload === "All") return options
+        return options.filter((opt) => opt.region === action.payload)
+    } 
+})
+```
+
+
+## **Como esta conformado Redux**
+
 ### **Reducer**
 
 Los reducers son como tomar algo de entrada y convertirlo en otra cosa, dependiendo de la accion que recivan.
