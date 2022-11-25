@@ -54,6 +54,18 @@ Con **fluid** le asignaremos siempre el 100% de la pantalla.
 
 ![No cargo la imagen](https://media.discordapp.net/attachments/991322622660976670/1029765821662244864/unknown.png)
 
+## **Container>Rows>Columns**
+
+![No cargo la imagen](https://media.discordapp.net/attachments/991322622660976670/1045782148789059624/image.png?width=666&height=387)
+
+![No cargo la imagen](https://cdn.discordapp.com/attachments/991322622660976670/1045782027456225401/image.png)
+
+## **.container y .contariner-fluid**
+
+**.container** crea un contenedor responsivo con un ancho maximo fijo que depende del tamaño del dispositivo.
+
+**.container-fluid** crea un contenedor responsivo que simpre va a ocupar el 100% de la pantalla.
+
 ### **Asignar mas de un valor**
 
 Nosotros podemos asignar mas de una propiedad de tamaño, esto se hace para que el contenedor sea lo mas responsive posible para cada tamaño de pantalla donde se vera el front de nuestra app. Para esto tendremos que pasarle el tamaño y luego la cantida de columnas (siempre respetando el maximo de 12).
@@ -65,7 +77,9 @@ Nosotros podemos asignar mas de una propiedad de tamaño, esto se hace para que 
 
 En pantallas lg se veran dos columnas, una de 8 y otra de 4, en cambio, en pantallas de md se veran dos columnas de 6.
 
-### **Centrar cosas**
+## **Centrar cosas**
+
+### **justify-content**
 
 Podemos centrar contenedores para donde nosotros querramos, para esto debemos asignarle estos valores a cada row.
 
@@ -78,15 +92,15 @@ Podemos centrar contenedores para donde nosotros querramos, para esto debemos as
 5) className="row justify-content-**between**"
 6) className="row justify-content-**evenly**"
 
-### **Eliminar o asignar el padding**
+### **aling-items**
 
-Para eliminar el padding de un contenedor, ya sea en el eje x o en el eje y, se usa la propiedad **gx-n o gy-n**.
+Define como se distribuyen los elementos en el eje perpendicular al eje principal.
 
- ``` html
- <div className="container gx-1" >Content</div>
- <div className="container gy-1" >Content</div>
-```
+![No cargo la imagen](https://cdn.discordapp.com/attachments/991322622660976670/1045809068993958008/image.png)
 
-# **Buttons/Botonoes**
+### **flex-wrap**
 
-Botones
+Determina si los elementos deben ser ajustados para que siemrpe esten en una misma linea o si se les permite distribuirse en varias lineas si es necesario.
+
+![No cargo la imagen](https://cdn.discordapp.com/attachments/991322622660976670/1045810515181580438/image.png)
+
